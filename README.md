@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viniclerigo
 - 👀 I’m interested in Cars and Coding.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python focused on data analysis.
 - 💞️ I’m looking to collaborate on anything that can get me experience and where i could really help.
 - 📫 How to reach me vnclerigo@gmail.com
 
